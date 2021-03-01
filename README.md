@@ -1,4 +1,4 @@
-##  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> Hey there, I'm Azmina Vanzara!
+## Hey there, I'm Azmina Vanzara!
 <img align='right' src="https://static.vecteezy.com/system/resources/previews/000/229/542/original/young-caucasian-woman-as-female-developer-profession-vector.jpg" width="210">
 
 - 🎓 I'm currently pursuing **Masters in Applied Computing(MAC)**  from **University of Windsor**.
