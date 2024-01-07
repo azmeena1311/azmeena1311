@@ -16,7 +16,7 @@ def azmina():
   return ∞
 ```
 
-![Azmina's github stats](https://github-readme-stats.vercel.app/api?username=azmeena1311&show_icons=true&hide_border=true)
+//![Azmina's github stats](https://github-readme-stats.vercel.app/api?username=azmeena1311&show_icons=true&hide_border=true)
 
 
 ## Connect me on:
