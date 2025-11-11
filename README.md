@@ -4,6 +4,6 @@
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/azminavanzara/
 - Github: https://github.com/azmeena1311
-- Email: (mailto:azminavanzara@gmail.com)
+- Email: (mailto:azminavanzara22@gmail.com)
 
-_**Note:** Please **do not spam** on the above mentioned profiles._
+
